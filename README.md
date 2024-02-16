@@ -1,5 +1,5 @@
 # Lexicon retrieval Demo
-Implement few basic models for IR.
+Implement a few basic models for Information Retrieval (IR).
 
 Download the dataset from the following pages: 
 
