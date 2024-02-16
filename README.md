@@ -1,5 +1,7 @@
 # Lexicon retrieval Demo
-Download the dataset from: 
+Implement few basic models for IR.
+
+Download the dataset from the following pages: 
 
 <https://www.kaggle.com/competitions/2022-ntust-information-retrieval-hw1/data>
 
